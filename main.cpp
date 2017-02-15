@@ -8,7 +8,7 @@ using namespace std;
 
 int main() {
 	
-	WholeProgramForCalculations program;
+	WholeProgramForCalculations progra;
 	program.menu();
 
 
