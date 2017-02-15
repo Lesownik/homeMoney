@@ -1,4 +1,4 @@
-#pragma once
+#pragm once
 #ifndef	CLASSES
 #define CLASSES
 
