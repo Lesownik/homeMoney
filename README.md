@@ -1,2 +1,2 @@
 # homeMoney
-Simple program for control home money with exporting the data to file.
+Simple program for control home money with exporting the data to .txt file. 
